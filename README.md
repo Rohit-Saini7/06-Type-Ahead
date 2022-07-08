@@ -4,7 +4,7 @@ Date: July 7, 2022
 
 # Sixth challange of [JavaScript30](https://javascript30.com/)
 
-This challange shows how search bar works. To experience on your own visit [here](https://rohit-saini7.github.io/03-CSS-Variables/)
+This challange shows how search bar works. To experience on your own visit [here](https://rohit-saini7.github.io/06-Type-Ahead/)
 
 ## What is JavaScript 30
 
